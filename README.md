@@ -1,2 +1,2 @@
 # HelloWorld
-This is a sample hello world code
+This is a sample hello world code.
